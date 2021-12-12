@@ -1,14 +1,11 @@
 .card {
-  display: block;
-  position: relative;
   -webkit-box-shadow: 5px 5px 15px rgb(0 0 0 / 10%);
   box-shadow: 5px 5px 15px rgb(0 0 0 / 10%);
   border-bottom-right-radius: 10px;
   border-bottom-left-radius: 10px;
   overflow: hidden;
-  margin: 20px 0;
   max-width: 500px;
-  min-width: 320px;
+  min-width: 380px;
 }
 
 .card-header {
@@ -20,12 +17,16 @@
   text-align: center;
   color: #1A1A1A;
   font-size: 1.5rem;
-  font-weight: 600;
-  padding-top: 10px;
+  margin: 16px 0;
+}
+
+.card-section {
+  padding: 8px 0;
 }
 
 .card-content {
-  color: #DB0000
+  color: #DB0000;
+  margin: 2px;
 }
 
 .card-body {
@@ -35,6 +36,19 @@
   background-color: #ffb81c;
   display: flex;
   justify-content: center;
+}
+
+.note {
+  margin-top: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 16px;
+  text-align: center;
+  height: 52px;
+  border-radius: 25px;
+  color:#FFFFFF;
+  background-color: #ffb81c;
 }
 
 button {

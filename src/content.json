@@ -2,11 +2,16 @@
     "headerTitle": "TREND-23 社費疫苗預約平台",
     "bodyTitle": "TREND-23 社費疫苗預約登記",
     "content": {
-        "title": "預約接種 Book Shots",
+        "title": "預約接種 Book Your Shots",
         "date": "接種日期: 12/23 19:00",
         "location": "接種地點: A901",
-        "info": "請點擊下方按鈕完成預約，請自備？元，當天A9櫃檯付款。",
-        "note": "P.S. 劑量含酒精成分，未滿18歲不得飲酒",
+        "fee": "每人費用: NT$200",
+        "action": "請點擊下方按鈕完成預約。",
+        "date_en": "Appointment time: 12/23 19:00",
+        "location_en": "Location: A901",
+        "fee_en": "Fee: NT$200",
+        "action_en": "Please complete the registration from below.",
+        "note": "劑量含酒精成分，未滿18歲不得飲酒",
         "bookButton": "預約(Book)"
     }
 }
