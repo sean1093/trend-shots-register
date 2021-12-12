@@ -1,0 +1,1 @@
+# trend-shots-register
