@@ -10,6 +10,17 @@
   color: white;
 }
 
+hr {
+  max-width: 400px;
+}
+
+.body-title {
+  text-align: center;
+  font-size: 36px;
+  padding: 4px;
+  font-weight: bold;
+}
+
 .App-header-text {
   display: flex;
   flex-direction: column;
@@ -19,54 +30,6 @@
 
 .App-body {
   padding: 24px;
-}
-
-.card {
-  display: block;
-  position: relative;
-  -webkit-box-shadow: 5px 5px 15px rgb(0 0 0 / 10%);
-  box-shadow: 5px 5px 15px rgb(0 0 0 / 10%);
-  border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px;
-  overflow: hidden;
-  margin: 20px 0;
-}
-
-.card-header {
-  padding: 20px;
-  padding-bottom: 120px;
-  border-top: 10px solid #ffb81c;
-}
-
-.card-title {
-  text-align: center;
-  color: #1A1A1A;
-    font-size: 1.5rem;
-    font-weight: 600;
-    padding-top: 10px;
-}
-
-.card-content {
-  color: #DB0000
-}
-
-.card-body {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 50px;
-  padding: 20px;
-  background-color: #ffb81c;
   display: flex;
   justify-content: center;
-}
-
-button {
-    background-color: #FFFFFF;
-    border: none ;
-    font-size: 24px;
-    width: 200px;
-    height: 50px;
-    margin-bottom: 20px;
-    cursor: pointer;
 }
