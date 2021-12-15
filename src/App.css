@@ -33,3 +33,8 @@ hr {
   display: flex;
   justify-content: center;
 }
+
+.App-notify {
+  text-align: center;
+  color: red;
+}

@@ -1,5 +1,5 @@
 {
-    "headerTitle": "TREND-21 社費疫苗預約平台",
+    "headerTitle": "TREND-21 社費疫苗預約平台 (趨勢科技品酒社)",
     "bodyTitle": "TREND-21 防疫注射意願登記",
     "content": {
         "title": "預約接種 Book Your Shots",
@@ -13,5 +13,6 @@
         "action_en": "Please complete the registration from below.",
         "note": "劑量含酒精成分，未滿18歲不得飲酒",
         "bookButton": "預約(Book)"
-    }
+    },
+    "footerContent": "此頁面為趨勢科技品酒社活動專用頁面，非真的疫苗登記系統頁面"
 }

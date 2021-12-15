@@ -17,6 +17,9 @@ function App() {
         {CONTENT.bodyTitle}
       </div>
       <hr />
+      <div className="App-notify">
+        {CONTENT.footerContent}
+      </div>
       <div className="App-body">
         <BookCard />
       </div>
