@@ -4,7 +4,7 @@ import './BookCard.css';
 
 const BookCard = () => {
   const openUrl = () => {
-      window.open("https://docs.google.com/spreadsheets/d/1rKk5m48g9RheyUvPWrIEY7DctiotiStooh6Rss2V44c/edit#gid=0", "_blank");
+      window.open("https://github.com/sean1093/trend-shots-register", "_blank");
   }
   return (
     <div className="card">
