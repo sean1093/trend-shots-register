@@ -45,7 +45,7 @@ const BookCard = () => {
         </div>
       </div>
       <div className="card-body">
-        <button onClick={openUrl}>
+        <button onClick={openUrl} disabled>
           {CONTENT.content.bookButton}
         </button>
       </div>
